@@ -10,6 +10,9 @@ class Test
 
         Div d=new Div();
         d.div(30, 0);
+
+        Mul m=new Mul();
+        m.mul(20, 5);
     }
 
 } 
