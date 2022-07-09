@@ -7,6 +7,9 @@ class Test
 
         Sub s=new Sub();
         s.sub(30, 5);
+
+        Div d=new Div();
+        d.div(30, 0);
     }
 
 }
