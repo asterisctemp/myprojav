@@ -12,4 +12,4 @@ class Test
         d.div(30, 0);
     }
 
-}
+} 
